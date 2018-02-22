@@ -1,0 +1,7 @@
+Implements a custom Workflow Node for Thermo Fisher Scientific's SampleManager LIMS.  
+The workflow node doesn't do much (just flashes a quick message).
+
+Files included:
+
+NodeFlash.cs - The FlashNode inherits from the Node class
+CustomizationMessages.resx - The messages resource file which contains the text (in English) utilized/displayed in the Workflow
